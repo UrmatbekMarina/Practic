@@ -1,12 +1,60 @@
-C:\Users\user\Desktop\mrn\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
-C:\Users\user\Desktop\mrn\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
-C:\Users\user\Desktop\mrn\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
-C:\Users\user\Desktop\mrn\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\user\Desktop\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\user\Desktop\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\user\Desktop\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\user\Desktop\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\user\Desktop\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\user\Desktop\Новая папка (5)\MRN2\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
